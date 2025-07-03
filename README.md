@@ -5,9 +5,9 @@ IBM Operating Systems and, in general, anything computer related.
 
 ## Current Interests
 
-I've been currently working on Speech to Text
-using various Python libraries. Also getting
-back into Chat-GPT API.
+I've been currently working on writing a
+CDP1802 emulator that will run on a
+Raspberry Pi Pico
 
 <!---
 SYSPROG-JLS/SYSPROG-JLS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
